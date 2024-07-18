@@ -3,7 +3,7 @@
 I am Alexey Perfilev, experienced front-end developer with 5 years of hands-on experience in developing high-performance and scalable web applications using Vue.js or React. Skilled in developing single-page applications (SPAs), server-side rendering, and integrating with RESTful APIs. Proven ability to work independently or in a team environment, delivering quality solutions within strict deadlines.
 
 [![Linkedin Badge](https://img.shields.io/badge/-alekseiPerfilev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksei-perfilev-93a3a8264/)](https://www.linkedin.com/in/aleksei-perfilev-93a3a8264/)
-[![Medium Badge](https://img.shields.io/badge/-@perfilyev.dev?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perfilyev.dev/)](https://medium.com/@perfilyev.dev)
+[![Medium Badge](https://img.shields.io/badge/-@perfilyev.dev-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perfilyev.dev/)](https://medium.com/@perfilyev.dev)
 
 ## ⚡ Technologies
 
