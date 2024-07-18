@@ -4,6 +4,7 @@ I am Alexey Perfilev, experienced front-end developer with 5 years of hands-on e
 
 [![Linkedin Badge](https://img.shields.io/badge/-alekseiPerfilev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksei-perfilev-93a3a8264/)](https://www.linkedin.com/in/aleksei-perfilev-93a3a8264/)
 [![Medium Badge](https://img.shields.io/badge/-@perfilyev.dev-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perfilyev.dev/)](https://medium.com/@perfilyev.dev)
+[![Upwork Badge](https://img.shields.io/badge/-aleksei-perfilev-#6FDA44?style=flat-square&labelColor=000000&logo=Upwork&link=https://www.upwork.com/freelancers/~0186ccf608c871bc3e)](https://www.upwork.com/freelancers/~0186ccf608c871bc3e)
 
 ## ⚡ Technologies
 
