@@ -3,7 +3,7 @@
 I am Alexey Perfilev, experienced front-end developer with 5 years of hands-on experience in developing high-performance and scalable web applications using Vue.js or React. Skilled in developing single-page applications (SPAs), server-side rendering, and integrating with RESTful APIs. Proven ability to work independently or in a team environment, delivering quality solutions within strict deadlines.
 
 [![Linkedin Badge](https://img.shields.io/badge/-alekseiPerfilev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aleksei-perfilev-93a3a8264/)](https://www.linkedin.com/in/aleksei-perfilev-93a3a8264/)
-[![Medium Badge](https://img.shields.io/badge/-@perfilyev.dev?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@erfilyev.dev/)](https://medium.com/@perfilyev.dev)
+[![Medium Badge](https://img.shields.io/badge/-@perfilyev.dev?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@perfilyev.dev/)](https://medium.com/@perfilyev.dev)
 
 ## ⚡ Technologies
 
@@ -20,6 +20,6 @@ I am Alexey Perfilev, experienced front-end developer with 5 years of hands-on e
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lexa070301&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Lexa070301)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lexa070301.Lexa070301)
