@@ -21,7 +21,7 @@ I am Alexey Perfilev, experienced front-end developer with 5 years of hands-on e
 ![Vuetify](https://img.shields.io/badge/-Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Lexa070301)
 
