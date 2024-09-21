@@ -27,6 +27,4 @@ I am Alexey Perfilev, experienced front-end developer with 5 years of hands-on e
 ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Lexa070301)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Lexa070301.Lexa070301)
